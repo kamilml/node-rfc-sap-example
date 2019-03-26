@@ -1,0 +1,12 @@
+{
+  "name": "node-rfc-sap-example",
+  "version": "1.0.0",
+  "description": "How to connect Node.js and RFC in SAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "node-rfc": "^1.0.0-rc7"
+  }
+}
