@@ -21,7 +21,7 @@ client.connect(err => {
     }        
 
     let data = {
-        PI_CXML: 'some string'
+        keyName: 'some string'
     }
 
     client.invoke('RFC_FUNCTION_NAME', data, (err, resRFC) => {
